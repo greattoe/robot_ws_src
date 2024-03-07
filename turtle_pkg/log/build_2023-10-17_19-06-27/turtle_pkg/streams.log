@@ -1,0 +1,34 @@
+[0.457s] Invoking command in '/home/gnd0/robot_ws/src/turtle_pkg': PYTHONPATH=/home/gnd0/robot_ws/src/turtle_pkg/build/turtle_pkg/prefix_override:/home/gnd0/robot_ws/src/turtle_pkg/install/turtle_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/turtle_pkg build --build-base /home/gnd0/robot_ws/src/turtle_pkg/build/turtle_pkg/build install --record /home/gnd0/robot_ws/src/turtle_pkg/build/turtle_pkg/install.log --install-scripts $base/lib/turtle_pkg --single-version-externally-managed
+[0.558s] running egg_info
+[0.558s] writing build/turtle_pkg/turtle_pkg.egg-info/PKG-INFO
+[0.558s] writing dependency_links to build/turtle_pkg/turtle_pkg.egg-info/dependency_links.txt
+[0.558s] writing entry points to build/turtle_pkg/turtle_pkg.egg-info/entry_points.txt
+[0.558s] writing requirements to build/turtle_pkg/turtle_pkg.egg-info/requires.txt
+[0.558s] writing top-level names to build/turtle_pkg/turtle_pkg.egg-info/top_level.txt
+[0.576s] reading manifest file 'build/turtle_pkg/turtle_pkg.egg-info/SOURCES.txt'
+[0.577s] writing manifest file 'build/turtle_pkg/turtle_pkg.egg-info/SOURCES.txt'
+[0.577s] running build
+[0.577s] running build_py
+[0.577s] copying turtle_pkg/rotate_turtle2.py -> /home/gnd0/robot_ws/src/turtle_pkg/build/turtle_pkg/build/lib/turtle_pkg
+[0.577s] running install
+[0.578s] running install_lib
+[0.578s] copying /home/gnd0/robot_ws/src/turtle_pkg/build/turtle_pkg/build/lib/turtle_pkg/rotate_turtle2.py -> /home/gnd0/robot_ws/src/turtle_pkg/install/turtle_pkg/lib/python3.8/site-packages/turtle_pkg
+[0.579s] byte-compiling /home/gnd0/robot_ws/src/turtle_pkg/install/turtle_pkg/lib/python3.8/site-packages/turtle_pkg/rotate_turtle2.py to rotate_turtle2.cpython-38.pyc
+[0.579s]   File "/home/gnd0/robot_ws/src/turtle_pkg/install/turtle_pkg/lib/python3.8/site-packages/turtle_pkg/rotate_turtle2.py", line 22
+[0.579s]     if self.pose.theta < radians(0) and self.pose.theta > radians(-180)
+[0.579s]                                                                       ^
+[0.579s] SyntaxError: invalid syntax
+[0.579s] 
+[0.580s] running install_data
+[0.580s] running install_egg_info
+[0.580s] removing '/home/gnd0/robot_ws/src/turtle_pkg/install/turtle_pkg/lib/python3.8/site-packages/turtle_pkg-0.0.0-py3.8.egg-info' (and everything under it)
+[0.580s] Copying build/turtle_pkg/turtle_pkg.egg-info to /home/gnd0/robot_ws/src/turtle_pkg/install/turtle_pkg/lib/python3.8/site-packages/turtle_pkg-0.0.0-py3.8.egg-info
+[0.580s] running install_scripts
+[0.589s] Installing circle script to /home/gnd0/robot_ws/src/turtle_pkg/install/turtle_pkg/lib/turtle_pkg
+[0.589s] Installing remote_turtle script to /home/gnd0/robot_ws/src/turtle_pkg/install/turtle_pkg/lib/turtle_pkg
+[0.590s] Installing rotate_turtle script to /home/gnd0/robot_ws/src/turtle_pkg/install/turtle_pkg/lib/turtle_pkg
+[0.590s] Installing rotate_turtle2 script to /home/gnd0/robot_ws/src/turtle_pkg/install/turtle_pkg/lib/turtle_pkg
+[0.590s] Installing rotate_turtle3 script to /home/gnd0/robot_ws/src/turtle_pkg/install/turtle_pkg/lib/turtle_pkg
+[0.590s] Installing sub_pose script to /home/gnd0/robot_ws/src/turtle_pkg/install/turtle_pkg/lib/turtle_pkg
+[0.590s] writing list of installed files to '/home/gnd0/robot_ws/src/turtle_pkg/build/turtle_pkg/install.log'
+[0.600s] Invoked command in '/home/gnd0/robot_ws/src/turtle_pkg' returned '0': PYTHONPATH=/home/gnd0/robot_ws/src/turtle_pkg/build/turtle_pkg/prefix_override:/home/gnd0/robot_ws/src/turtle_pkg/install/turtle_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/turtle_pkg build --build-base /home/gnd0/robot_ws/src/turtle_pkg/build/turtle_pkg/build install --record /home/gnd0/robot_ws/src/turtle_pkg/build/turtle_pkg/install.log --install-scripts $base/lib/turtle_pkg --single-version-externally-managed

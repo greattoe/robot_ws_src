@@ -1,0 +1,5 @@
+  File "/home/gnd0/robot_ws/src/turtle_pkg/install/turtle_pkg/lib/python3.8/site-packages/turtle_pkg/rotate_turtle2.py", line 22
+    if self.pose.theta < radians(0) and self.pose.theta > radians(-180)
+                                                                      ^
+SyntaxError: invalid syntax
+

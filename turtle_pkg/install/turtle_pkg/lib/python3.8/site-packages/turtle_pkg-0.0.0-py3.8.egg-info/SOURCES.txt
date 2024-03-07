@@ -1,0 +1,24 @@
+package.xml
+setup.cfg
+setup.py
+build/turtle_pkg/turtle_pkg.egg-info/PKG-INFO
+build/turtle_pkg/turtle_pkg.egg-info/SOURCES.txt
+build/turtle_pkg/turtle_pkg.egg-info/dependency_links.txt
+build/turtle_pkg/turtle_pkg.egg-info/entry_points.txt
+build/turtle_pkg/turtle_pkg.egg-info/requires.txt
+build/turtle_pkg/turtle_pkg.egg-info/top_level.txt
+build/turtle_pkg/turtle_pkg.egg-info/zip-safe
+resource/turtle_pkg
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
+turtle_pkg/__init__.py
+turtle_pkg/getchar.py
+turtle_pkg/move_turtle.py
+turtle_pkg/remote_turtle.py
+turtle_pkg/rotate_turtle (copy).py
+turtle_pkg/rotate_turtle.py
+turtle_pkg/rotate_turtle2.py
+turtle_pkg/rotate_turtle3.py
+turtle_pkg/rotate_turtle5.py
+turtle_pkg/sub_pose.py

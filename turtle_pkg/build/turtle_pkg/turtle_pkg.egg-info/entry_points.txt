@@ -1,0 +1,8 @@
+[console_scripts]
+circle = turtle_pkg.move_turtle:main
+remote_turtle = turtle_pkg.remote_turtle:main
+rotate_turtle = turtle_pkg.rotate_turtle:main
+rotate_turtle2 = turtle_pkg.rotate_turtle2:main
+rotate_turtle3 = turtle_pkg.rotate_turtle3:main
+sub_pose = turtle_pkg.sub_pose:main
+
